@@ -33,11 +33,12 @@ https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/ra
 
 
 
-https://user-images.githubusercontent.com/106812762/173152508-c75dc23b-c87f-416e-9c7c-cfb8f17daffb.mp4
 
 
 
 
+
+![projeto-explorer](https://user-images.githubusercontent.com/106812762/173152652-55e7a6e6-ded4-4af3-869d-5a87833ef179.png)
 
 
 
