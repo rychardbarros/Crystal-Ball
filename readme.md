@@ -38,7 +38,8 @@ Faça sua pergunta!
 
 Projeto finalizado:
 
-![projeto-explorer](https://user-images.githubusercontent.com/106812762/173152652-55e7a6e6-ded4-4af3-869d-5a87833ef179.png)
+![image](https://user-images.githubusercontent.com/106812762/192071465-1b437aac-67f2-488f-9412-0069e3db46d3.PNG)
+
 
 
 
