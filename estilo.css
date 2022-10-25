@@ -1,3 +1,9 @@
+@keyframes buttonPerguntar {
+    50% {top: 0px; left: 0px; background: #9932cc;}
+    25% {top: 0px; left: 0px; background: #blue;}
+    25% {top: 0px; left: 0px; background: #yellow;}
+
+
 *{
     margin:0;
     box-sizing: border-box;
@@ -62,6 +68,8 @@ button:hover{
     opacity: 0.9;
     margin-bottom: 10px; 
 }
-
+#buttonPerguntar{
+    animation: button 9s infinite;
+}
 
 
